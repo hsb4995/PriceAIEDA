@@ -36,7 +36,7 @@ Clone the project
   [git clone https://github.com/hsb4995/pred-demo-webapp.git](https://github.com/hsb4995/PriceAIEDA.git)
 ```
 
-Unzip the dataset, zipped it due to size being large
+Unzip the dataset which is DataGen.zip, zipped it due to size being large
 
 
 Open notebook such as minPrice1SepNotebook or CourierDataModeldtdc_30_aug in jupyter
